@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECOESTRUTURA - Site de Engenharia Civil e Ambiental
 
 ## 🏗️ Sobre o Projeto
@@ -113,3 +114,6 @@ Este projeto é de uso livre para fins comerciais e pessoais.
 ---
 
 **Desenvolvido com 💚 por ECOESTRUTURA Engenharia**
+=======
+# KM-EngTec
+>>>>>>> dfd4d675ee99093210e026ee85a2b1c826afbe6f
