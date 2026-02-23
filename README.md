@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # ECOESTRUTURA - Site de Engenharia Civil e Ambiental
 
-## 🏗️ Sobre o Projeto
+## Sobre o Projeto
 
 Site completo e responsivo para empresa de Engenharia Civil e Ambiental, desenvolvido com HTML5, CSS3 e JavaScript puro.
 
-## ✨ Características
+## Características
 
 - **Design Moderno**: Interface limpa e profissional com foco em sustentabilidade
 - **Totalmente Responsivo**: Adaptável a todos os dispositivos (desktop, tablet, mobile)
@@ -13,7 +12,7 @@ Site completo e responsivo para empresa de Engenharia Civil e Ambiental, desenvo
 - **SEO Friendly**: Estrutura semântica e meta tags otimizadas
 - **Acessibilidade**: Navegação por teclado e leitores de tela
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 ### Seções Principais
 - **Hero**: Banner inicial com estatísticas animadas
@@ -35,7 +34,7 @@ Site completo e responsivo para empresa de Engenharia Civil e Ambiental, desenvo
 - Animações de entrada (fade in)
 - Contador de estatísticas animado
 
-## 📁 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 ```
 ecoestrutura-site/
@@ -47,7 +46,7 @@ ecoestrutura-site/
 └── images/             # Pasta para imagens locais
 ```
 
-## 🎨 Paleta de Cores
+## Paleta de Cores
 
 - **Verde Principal**: #2E7D32
 - **Verde Escuro**: #1B5E20
@@ -56,7 +55,7 @@ ecoestrutura-site/
 - **Cinza Escuro**: #455A64
 - **Cinza Médio**: #78909C
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5 Semântico
 - CSS3 (Flexbox, Grid, Variáveis CSS)
@@ -64,21 +63,21 @@ ecoestrutura-site/
 - Font Awesome (ícones)
 - Google Fonts (Inter)
 
-## 📱 Responsividade
+## Responsividade
 
 - **Desktop**: > 1024px
 - **Tablet**: 768px - 1024px
 - **Mobile**: < 768px
 - **Mobile Pequeno**: < 480px
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Faça o download dos arquivos
 2. Extraia para uma pasta
 3. Abra o arquivo `index.html` em um navegador
 4. Para publicar, faça upload para seu servidor web
 
-## ⚙️ Personalização
+## Personalização
 
 ### Cores
 Edite as variáveis CSS no início do arquivo `css/style.css`:
@@ -101,13 +100,13 @@ Edite as variáveis CSS no início do arquivo `css/style.css`:
 - Configure o formulário de contato com seu backend
 - Personalize mensagens do chat widget
 
-## 📞 Suporte
+## Suporte
 
 Para dúvidas ou suporte técnico:
 - Email: contato@ecoestrutura.com.br
 - Telefone: (11) 3456-7890
 
-## 📄 Licença
+## Licença
 
 Este projeto é de uso livre para fins comerciais e pessoais.
 
