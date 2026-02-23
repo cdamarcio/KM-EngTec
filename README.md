@@ -112,6 +112,4 @@ Este projeto é de uso livre para fins comerciais e pessoais.
 
 ---
 
-**Desenvolvido com por ECOESTRUTURA Engenharia**
-=======
-# KM-EngTec
+**Desenvolvido por: KM Engenharia & Tecnologia**
