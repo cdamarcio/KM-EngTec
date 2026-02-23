@@ -100,12 +100,6 @@ Edite as variáveis CSS no início do arquivo `css/style.css`:
 - Configure o formulário de contato com seu backend
 - Personalize mensagens do chat widget
 
-## Suporte
-
-Para dúvidas ou suporte técnico:
-- Email: contato@ecoestrutura.com.br
-- Telefone: (11) 3456-7890
-
 ## Licença
 
 Este projeto é de uso livre para fins comerciais e pessoais.
